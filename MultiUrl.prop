@@ -1,0 +1,13 @@
+{
+	"modules": { 
+		"MultiUrl": {
+			"description": "Plugin MultiUrl permet de lancer plusieurs Requête HTTP.",
+			"version": "1.0",
+			"URL1":"http://",
+			"URL2":"http://",
+			"URL3":"http://",
+			"URL4":"http://",
+			"URL5":""
+		}
+	}
+}
